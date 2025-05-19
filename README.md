@@ -19,7 +19,6 @@ A CLI and a GUI front-end let you explore both modes. The GUI also visualizes th
 - [Implementation Details](#implementation-details)
 - [Statistics (stats.txt)](#statistics-statstxt)
 <<<<<<< HEAD
-- [Contributors](#contributors)
 =======
 >>>>>>> b16fed7765b52712c6f2fe68476f264cb2d169c3
 - [Screenshots](#screenshots)
@@ -167,26 +166,7 @@ At simulation end, prints:
 11. Stalls due to data hazards
 12. Stalls due to control hazards
 
----
 
-<<<<<<< HEAD
-## Contributors
-
-- **Shubham Aggarwal (2023CSB1162):**  
-  - Project setup and integration.
-  - Developed the assembler and contributed to machine code generation.
-  - Assisted in developing branch prediction and PHT Table.
-  - Assisted in integrating the GUI with the overall simulation framework.
-
-- **Navneet Kaur (2023CSB1137):**  
-  - Managed the data segment and assembly directive handling.
-  - Implemented the code for simulator five-step cycle.
-  - Assisted in developing stats and pipeline control.
-
-- **Yatri Sutariya (2023CSB1319):**  
-  - Constructed the symbol table for assembler and contributed to debugging and optimization.
-  - Integrated the individual cycle codes to run as a whole with input output functionalities.
-  - Assisted in developing hazard logic and architecture.
 
 ---
 
