@@ -1,0 +1,10 @@
+debug/assembler.o
+debug/highlighter.o
+debug/main.o
+debug/mainwindow.o
+debug/optiondialog.o
+debug/pipeline_simulator.o
+debug/simulator.o
+debug/moc_highlighter.o
+debug/moc_mainwindow.o
+debug/moc_optiondialog.o

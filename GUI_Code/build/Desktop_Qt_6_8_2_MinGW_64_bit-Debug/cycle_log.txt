@@ -1,0 +1,9 @@
+=========== Cycle 6 ===========
+
+--- Pipeline Snapshot ---
+-------- Pipeline Register Snapshot --------
+[IF/ID] PC: 0x0000000c, Instruction: 0x008000ef
+[ID/EX] PC: 0x00000008, rs1: x11 = 0x0000000a, rs2: x0 = 0x00000000, rd: x12, imm: 0xffffffff, ALUSrc: 1, MemRead: 0, MemWrite: 0, MemToReg: 0, RegWrite: 1, Branch: 0, Jump: 0, Halt: 0
+[EX/MEM] Invalid
+[MEM/WB] Invalid
+-------------------------------------------

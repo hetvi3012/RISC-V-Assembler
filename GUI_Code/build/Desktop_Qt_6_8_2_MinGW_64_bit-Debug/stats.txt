@@ -1,0 +1,12 @@
+Total Cycles: 6
+Instructions Executed: 2
+CPI: 3
+Data Instructions: 1
+ALU Instructions: 1
+Control Instructions: 0
+Data Hazards: 1
+Control Hazards: 0
+Branch Mispredictions: 0
+Total Stalls: 2
+Stalls due to data hazards: 2
+Stalls due to control hazards: 0

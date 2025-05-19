@@ -1,0 +1,13 @@
+release/assembler.o
+release/highlighter.o
+release/main.o
+release/mainwindow.o
+release/mytablewidget.o
+release/optiondialog.o
+release/pipeline_simulator.o
+release/simulator.o
+release/qrc_resources.o
+release/moc_highlighter.o
+release/moc_mainwindow.o
+release/moc_mytablewidget.o
+release/moc_optiondialog.o
