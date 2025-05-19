@@ -164,13 +164,6 @@ At simulation end, prints:
 11. Stalls due to data hazards
 12. Stalls due to control hazards
 
-
-
----
-
-## Screenshots
-
-*To be added: GUI pipeline view, PHT/BTB table, cycle logs, forwarding highlights.*
 =======
 ## Screenshots
 
