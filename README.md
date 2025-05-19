@@ -18,9 +18,7 @@ A CLI and a GUI front-end let you explore both modes. The GUI also visualizes th
 - [Building & Running](#building--running)
 - [Implementation Details](#implementation-details)
 - [Statistics (stats.txt)](#statistics-statstxt)
-<<<<<<< HEAD
-=======
->>>>>>> b16fed7765b52712c6f2fe68476f264cb2d169c3
+
 - [Screenshots](#screenshots)
 
 ---
@@ -177,4 +175,3 @@ At simulation end, prints:
 ## Screenshots
 
 *To be added: GUI pipeline view, PHT/BTB table, cycle logs, forwarding highlights.*
->>>>>>> b16fed7765b52712c6f2fe68476f264cb2d169c3
